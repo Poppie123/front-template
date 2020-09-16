@@ -1,7 +1,7 @@
 # front-system
 peiyu created on 2020.09.16
 vue cli4 搭建
-vue + typescript + element
+vue + typescript + element ui
 
 ## 安装依赖
 ```
